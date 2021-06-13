@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using MediatR;
 using Persistence;
 
-namespace Application.Activity
+namespace Application.Activities
 {
     public class Details
     {

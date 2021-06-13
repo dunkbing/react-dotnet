@@ -1,4 +1,4 @@
-using Application.Activity;
+using Application.Activities;
 using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
